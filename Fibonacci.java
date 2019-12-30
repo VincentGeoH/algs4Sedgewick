@@ -1,5 +1,3 @@
-package edu.princeton.cs.algs4;
-
 public class Fibonacci {
     public static long F(int N) {
         if (N == 0) return 0;

@@ -1,5 +1,3 @@
-package workspace.algs4Sedgewick;
-
 public class Exc1118 {
     public static int mystery1(int a, int b) {
         if (b == 0) return 0;

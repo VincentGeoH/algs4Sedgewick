@@ -1,5 +1,3 @@
-package workspace.algs4Sedgewick;
-
 public class Exc1116 {
     public static String exR1(int n) {
             if (n <= 0) return "";
