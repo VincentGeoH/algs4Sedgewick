@@ -1,3 +1,9 @@
+/* What is the largest value of N for which this program takes less 1 hour 
+ * to compute the value of F(N)? Develop a better implementation of F(N) that
+ * saves computed values in an array.
+ */
+
+
 import java.math.BigInteger;
 
 public class Exc1119 {

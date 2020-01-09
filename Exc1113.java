@@ -1,3 +1,7 @@
+ /* Write a code fragment to print the transposition (rows and columns changed)
+  * of a two-dimensional array with M rows and N columns.
+  */ 
+
 public class Exc1113 {
     public static void main(String[] args) {
         int M = 2, N = 3;

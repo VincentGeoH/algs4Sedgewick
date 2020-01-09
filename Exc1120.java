@@ -1,4 +1,5 @@
-// Compute ln(N!)
+/* Write a recursive static method that computes the value of ln (N !)
+ */
 
 import java.lang.Math;
 

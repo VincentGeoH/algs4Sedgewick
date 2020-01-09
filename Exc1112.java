@@ -1,3 +1,8 @@
+/* Write a code fragment that prints the contents of a two-dimensional boolean
+ * array, using * to represent true and a space to represent false. Include 
+ * row and column numbers.
+ */
+
 public class Exc1112 {
     public static void main(String[] args) {
         int[] a = new int[10];

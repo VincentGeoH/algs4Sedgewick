@@ -1,3 +1,9 @@
+/* What are the values of mystery(2, 25) and mystery(3, 11)? Given positive
+ * integers a and b, describe what value mystery(a, b) computes. Answer 
+ * the same question, but replace + with * and replace return 0 with return 1.
+ */
+
+
 public class Exc1118 {
     public static int mystery1(int a, int b) {
         if (b == 0) return 0;
